@@ -51,8 +51,8 @@
 -->
 
 ## Project List
-- [Website] [Personal Portfolio site](https://breadcoffee.github.io)
-- [Education] [Raspberrypi Education](https://github.com/breadcoffee/Raspberrypi-Education-2022)
+- [Website] [Personal Portfolio site](https://github.com/breadcoffee)
+- [Education] [라즈베리파이 교육자료](https://github.com/breadcoffee/Raspberrypi-Education-2022)
 - [WPF] [WPF 학습](https://github.com/breadcoffee/basic-wpf-2024)
 - [ASP.NET] [ASP.NET 학습](https://github.com/breadcoffee/basic-aspnet-2024)
 - [IoT Team Project] [IoT 팀 프로젝트 깃허브](https://github.com/EtoI3)
