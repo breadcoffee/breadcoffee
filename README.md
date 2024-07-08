@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**breadcoffee/breadcoffee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Profile
+- Name : Lee Joo won
+- Email : wndnjs0543@naver.com
+- ✈️ Later, I'm working as an Embedded Developer
+  - Major : C#, Smart Factory, IoT Developmont
+  - Minor : Python, Web Dev(ASP.NET)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stat and Languages
+<p align='center'>
+  <a href="https://github.com/breadcoffee">
+    <img src="https://github-readme-stats.vercel.app/api?username=breadcoffee&theme=tokyonight&show_icons=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=breadcoffee&theme=tokyonight&layout=compact"/>
+  </a>
+</p>
