@@ -42,12 +42,13 @@
   <img height="40" src="https://img.icons8.com/?size=100&id=13443&format=png&color=000000" title="Raspberry Pi">
   <img height="40" src="https://mosquitto.org/stickers/mosquitto-mono.png" title="MQTT">
 </p>
-
+<!--
 ## Technique Table
 | 기술분류 | 명세 |
 |:---:|:---:|
 |Visual Studio Code|Python 개발, Spring Boot 개발|
 |Oracle 21C| Database 기본학습 |
+-->
 
 ## Project List
 - [Website] [Personal Portfolio site](https://breadcoffee.github.io)
