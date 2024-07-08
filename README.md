@@ -1,10 +1,14 @@
+<p align='center'>
+  <a href="https://github.com/hugoMGSung">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20%20Joo's%20GitHub&section=header&fontAlign=50&textBg=false&animation=scaleIn&descAlign=50&descAlignY=60"/>
+  </a>
+</p>
 
-## Profile
 - Name : Lee Joo won
 - Email : wndnjs0543@naver.com
-- ✈️ Later, I'm working as an Embedded Developer
+- ✈️ I want to work as an embedded developer.
   - Major : C#, Smart Factory, IoT Developmont
-  - Minor : Python, Web Dev(ASP.NET)
+  - Minor : Python, Web Dev(ASP.NET, MAUI.NET )
 
 ## GitHub Stat and Languages
 <p align='center'>
@@ -46,3 +50,11 @@
 |Visual Studio Code|Python 개발, Spring Boot 개발|
 |Oracle 21C| Database 기본학습 |
 
+## Project List
+- [Website] [Personal Portfolio site](https://breadcoffee.github.io)
+- [Education] [Raspberrypi Education](https://github.com/breadcoffee/Raspberrypi-Education-2022)
+- [WPF] [WPF 학습](https://github.com/breadcoffee/basic-wpf-2024)
+- [ASP.NET] [ASP.NET 학습](https://github.com/breadcoffee/basic-aspnet-2024)
+- [IoT Team Project] [IoT 팀 프로젝트 깃허브](https://github.com/EtoI3)
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
